@@ -1,0 +1,5 @@
+.env
+agno.txt
+
+__pycache__/
+.streamlit/secrets.toml
